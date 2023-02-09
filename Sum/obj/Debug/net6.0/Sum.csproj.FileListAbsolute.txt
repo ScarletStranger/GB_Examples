@@ -1,0 +1,15 @@
+E:\ZUZYA\GB C#\Examples\Sum\obj\Debug\net6.0\Sum.csproj.AssemblyReference.cache
+E:\ZUZYA\GB C#\Examples\Sum\obj\Debug\net6.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\ZUZYA\GB C#\Examples\Sum\obj\Debug\net6.0\Sum.AssemblyInfoInputs.cache
+E:\ZUZYA\GB C#\Examples\Sum\obj\Debug\net6.0\Sum.AssemblyInfo.cs
+E:\ZUZYA\GB C#\Examples\Sum\obj\Debug\net6.0\Sum.csproj.CoreCompileInputs.cache
+E:\ZUZYA\GB C#\Examples\Sum\bin\Debug\net6.0\Sum.exe
+E:\ZUZYA\GB C#\Examples\Sum\bin\Debug\net6.0\Sum.deps.json
+E:\ZUZYA\GB C#\Examples\Sum\bin\Debug\net6.0\Sum.runtimeconfig.json
+E:\ZUZYA\GB C#\Examples\Sum\bin\Debug\net6.0\Sum.dll
+E:\ZUZYA\GB C#\Examples\Sum\bin\Debug\net6.0\Sum.pdb
+E:\ZUZYA\GB C#\Examples\Sum\obj\Debug\net6.0\Sum.dll
+E:\ZUZYA\GB C#\Examples\Sum\obj\Debug\net6.0\refint\Sum.dll
+E:\ZUZYA\GB C#\Examples\Sum\obj\Debug\net6.0\Sum.pdb
+E:\ZUZYA\GB C#\Examples\Sum\obj\Debug\net6.0\Sum.genruntimeconfig.cache
+E:\ZUZYA\GB C#\Examples\Sum\obj\Debug\net6.0\ref\Sum.dll

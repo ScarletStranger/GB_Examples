@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ZUZYA\\GB C#\\Examples\\Sum\\Sum.csproj": {}
+  },
+  "projects": {
+    "E:\\ZUZYA\\GB C#\\Examples\\Sum\\Sum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ZUZYA\\GB C#\\Examples\\Sum\\Sum.csproj",
+        "projectName": "Sum",
+        "projectPath": "E:\\ZUZYA\\GB C#\\Examples\\Sum\\Sum.csproj",
+        "packagesPath": "C:\\Users\\ScarletStranger\\.nuget\\packages\\",
+        "outputPath": "E:\\ZUZYA\\GB C#\\Examples\\Sum\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ScarletStranger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
