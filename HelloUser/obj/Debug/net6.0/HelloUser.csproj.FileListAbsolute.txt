@@ -1,0 +1,15 @@
+E:\ZUZYA\GB C#\Examples\HelloUser\bin\Debug\net6.0\HelloUser.exe
+E:\ZUZYA\GB C#\Examples\HelloUser\bin\Debug\net6.0\HelloUser.deps.json
+E:\ZUZYA\GB C#\Examples\HelloUser\bin\Debug\net6.0\HelloUser.runtimeconfig.json
+E:\ZUZYA\GB C#\Examples\HelloUser\bin\Debug\net6.0\HelloUser.dll
+E:\ZUZYA\GB C#\Examples\HelloUser\bin\Debug\net6.0\HelloUser.pdb
+E:\ZUZYA\GB C#\Examples\HelloUser\obj\Debug\net6.0\HelloUser.csproj.AssemblyReference.cache
+E:\ZUZYA\GB C#\Examples\HelloUser\obj\Debug\net6.0\HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+E:\ZUZYA\GB C#\Examples\HelloUser\obj\Debug\net6.0\HelloUser.AssemblyInfoInputs.cache
+E:\ZUZYA\GB C#\Examples\HelloUser\obj\Debug\net6.0\HelloUser.AssemblyInfo.cs
+E:\ZUZYA\GB C#\Examples\HelloUser\obj\Debug\net6.0\HelloUser.csproj.CoreCompileInputs.cache
+E:\ZUZYA\GB C#\Examples\HelloUser\obj\Debug\net6.0\HelloUser.dll
+E:\ZUZYA\GB C#\Examples\HelloUser\obj\Debug\net6.0\refint\HelloUser.dll
+E:\ZUZYA\GB C#\Examples\HelloUser\obj\Debug\net6.0\HelloUser.pdb
+E:\ZUZYA\GB C#\Examples\HelloUser\obj\Debug\net6.0\HelloUser.genruntimeconfig.cache
+E:\ZUZYA\GB C#\Examples\HelloUser\obj\Debug\net6.0\ref\HelloUser.dll
