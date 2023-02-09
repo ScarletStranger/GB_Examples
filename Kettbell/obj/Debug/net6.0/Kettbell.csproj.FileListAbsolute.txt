@@ -1,0 +1,15 @@
+E:\ZUZYA\GB C#\Examples\Kettbell\bin\Debug\net6.0\Kettbell.exe
+E:\ZUZYA\GB C#\Examples\Kettbell\bin\Debug\net6.0\Kettbell.deps.json
+E:\ZUZYA\GB C#\Examples\Kettbell\bin\Debug\net6.0\Kettbell.runtimeconfig.json
+E:\ZUZYA\GB C#\Examples\Kettbell\bin\Debug\net6.0\Kettbell.dll
+E:\ZUZYA\GB C#\Examples\Kettbell\bin\Debug\net6.0\Kettbell.pdb
+E:\ZUZYA\GB C#\Examples\Kettbell\obj\Debug\net6.0\Kettbell.csproj.AssemblyReference.cache
+E:\ZUZYA\GB C#\Examples\Kettbell\obj\Debug\net6.0\Kettbell.GeneratedMSBuildEditorConfig.editorconfig
+E:\ZUZYA\GB C#\Examples\Kettbell\obj\Debug\net6.0\Kettbell.AssemblyInfoInputs.cache
+E:\ZUZYA\GB C#\Examples\Kettbell\obj\Debug\net6.0\Kettbell.AssemblyInfo.cs
+E:\ZUZYA\GB C#\Examples\Kettbell\obj\Debug\net6.0\Kettbell.csproj.CoreCompileInputs.cache
+E:\ZUZYA\GB C#\Examples\Kettbell\obj\Debug\net6.0\Kettbell.dll
+E:\ZUZYA\GB C#\Examples\Kettbell\obj\Debug\net6.0\refint\Kettbell.dll
+E:\ZUZYA\GB C#\Examples\Kettbell\obj\Debug\net6.0\Kettbell.pdb
+E:\ZUZYA\GB C#\Examples\Kettbell\obj\Debug\net6.0\Kettbell.genruntimeconfig.cache
+E:\ZUZYA\GB C#\Examples\Kettbell\obj\Debug\net6.0\ref\Kettbell.dll
