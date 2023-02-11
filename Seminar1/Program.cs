@@ -10,9 +10,9 @@
 //Console.WriteLine("My numbers are " + n1 + " and " + n2 + " and their sum is " + (n1 + n2));
 //Console.WriteLine($"My numbers are {n1} and {n2} and their sum is {n1 + n2}");
 
-//Console.Write("Input an integer number: ");
-//int n1 = Convert.ToInt32(Console.Read());
-//Console.WriteLine("Your number is " + n1);
+Console.Write("Input an integer number: ");
+int n1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Your number is " + n1);
 
 //Seminar1
 //Task 1. Напишите программу, которая на вход принимает два числа
