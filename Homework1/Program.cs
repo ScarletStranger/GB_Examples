@@ -76,3 +76,11 @@ while(count <= n1)
     }
 count++;
 }
+while(count >= n1)
+{
+    if(count % 2 == 0)
+    {
+    Console.Write(count + " ");
+    }
+count--;
+}
