@@ -68,19 +68,11 @@ Console.Write("Input a number: ");
 int n1 = Convert.ToInt32(Console.ReadLine());
 int count = 1;
 
-while(n1 < 0 ? count >= n1 : count <= n1)
+while(count <= n1)
 {
     if(count % 2 == 0)
     {
     Console.Write(count + " ");
     }
-    
-    if(n1 < 0)
-    {
-        count--;
-    }
-    else
-    {
-        count++;
-    }
+count++;
 }
