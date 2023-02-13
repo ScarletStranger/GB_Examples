@@ -16,6 +16,8 @@ else
 Console.WriteLine("The greatest number is " + n2);
 Console.WriteLine("The smallest number is " + n1);
 }
+if(n1 == n2)
+Console.WriteLine("Numbers are equal");
 */
 
 //Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
@@ -66,15 +68,19 @@ Console.Write("Input a number: ");
 int n1 = Convert.ToInt32(Console.ReadLine());
 int count = 1;
 
-while(count <= n1)
+while(n1 < 0 ? count >= n1 : count <= n1)
 {
     if(count % 2 == 0)
     {
     Console.Write(count + " ");
-    count++;
+    }
+    
+    if(n1 < 0)
+    {
+        count--;
     }
     else
     {
-    count++;
+        count++;
     }
 }
