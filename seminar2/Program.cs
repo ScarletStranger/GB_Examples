@@ -48,9 +48,7 @@ else
 Console.WriteLine($"Your number {number} is not divisible by {divider1} and {divider2}");
 */
 
-//Выводит случайное число от 10 до 99 и показывает цифру наибольшего числа
-
-/*
+/*Выводит случайное число от 10 до 99 и показывает цифру наибольшего числа
 int GreatestNum(int num)
 {
     int tens = num / 10;
@@ -65,9 +63,7 @@ int big = GreatestNum(random);
 Console.WriteLine($"The biggest digit of {random} is {big}");
 */
 
-//Является ли одно число квадратом другого
-
-/*
+/*Является ли одно число квадратом другого
 bool IsSquare(int num1, int num2)
 {
     return (num1 / num2 == num2 || num2 / num1 == num1);
