@@ -1,25 +1,28 @@
-﻿
-//Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+﻿/*Напишите программу, которая принимает на вход пятизначное(или нет) число и проверяет, является ли оно палиндромом.
 
-double division(double number, double eachNumber)
+bool IsPalindrome(int number)
 {
-    eachNumber = 0;
-    while (eachNumber > 0)
+    if (number < 0 || (number % 10 == 0 && number != 0))
+    return false;
+
+    int revertedNumber = 0;
+    while (number > revertedNumber)
     {
-        eachNumber * 10 + number % 10;
-        //break;
+        revertedNumber = revertedNumber * 10 + number % 10;
+        number = number / 10;
     }
-    
-    return (number / 10);
+    return number == revertedNumber || number == revertedNumber / 10;
 }
 
 Console.WriteLine("Input a number: ");
-double number = Convert.ToInt32(Console.ReadLine());
-double final = division(number);
-Console.WriteLine(final);
+int number = Convert.ToInt32(Console.ReadLine());
 
+if (IsPalindrome(number))
+    Console.WriteLine($"The number {number} is a palindrome");
+else
+    Console.WriteLine($"The number {number} is not a palindrome");
+*/
 
-//2981891
 /*Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
 
 double findDistance(double x1, double y1, double z1, double x2, double y2, double z2)
