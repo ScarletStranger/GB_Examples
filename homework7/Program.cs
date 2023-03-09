@@ -77,7 +77,7 @@ ElementPosition(newArray);
 
 */
 
-/* Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
+// Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
 
 int[,] CreateRandom2DArray()
 {
@@ -97,18 +97,20 @@ int[,] CreateRandom2DArray()
     return array;
 }
 
-double Average(int[,] array)
+double[] Average(int[,] array)
 {
     double result = 0;
+    double[] averageArray = new double[array.GetLength(1)];
     for (int j = 0; j < array.GetLength(1); j++)
     {
         for (int i = 0; i < array.GetLength(0); i++)
         {
             result = result + array[i, j];
         }
-        result = result / array.GetLength(1);
+        averageArray[j] = Math.Round(result / array.GetLength(1), 2);
+        result = 0;
     }
-    return Math.Round(result, 2);
+    return averageArray;
 }
 
 void Show2DArray(int[,] array)
@@ -122,8 +124,14 @@ void Show2DArray(int[,] array)
     Console.WriteLine();
 }
 
+void PrintArray(double[] averageArray)
+{
+    for (int i = 0; i < averageArray.Length; i++)
+        Console.Write(averageArray[i] + " ");
+    Console.WriteLine();
+}
+
 int[,] newArray = CreateRandom2DArray();
 Show2DArray(newArray);
-Console.Write(Average(newArray));
-
-*/
+double[] averageArray = Average(newArray);
+PrintArray(averageArray);
