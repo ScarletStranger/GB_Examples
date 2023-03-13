@@ -56,7 +56,7 @@ for (int i = 0; i < 15; i++)
 }
 */
 
-int Fibonacci(int n)
+/*int Fibonacci(int n)
 {
     if (n == 1 || n == 2) return 1;
     else return Fibonacci(n - 1) + Fibonacci(n - 2);
@@ -65,3 +65,7 @@ for (int i = 1; i < 40; i++)
 {
     Console.WriteLine(Fibonacci(i));
 }
+*/
+
+// собраить строку с числами от a до b, a <= b
+
